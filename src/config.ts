@@ -1,0 +1,1 @@
+export const SERVER_RIOT = 'http://localhost:4000/riotapi';
